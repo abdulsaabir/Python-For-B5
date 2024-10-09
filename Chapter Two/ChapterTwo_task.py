@@ -14,7 +14,7 @@
 
 # -------------------------------------  EXAMPLE FOUR -------------------------------------------------
 # Practice 9: Create two variables: `age` and `name`. Assign `age` the value `25` and `name` the string `"John"`.
-# Practice 10: Print the values of `age` and `name` in one line, separated by a space.
+# Practice 10: Print the values of `age` and `name` using just one print() function.
 
 # -------------------------------------  EXAMPLE FIVE -------------------------------------------------
 # Practice 11: Create three variables: `color`, `animal`, and `fruit`. Assign them the values `"Blue"`, `"Elephant"`, and `"Apple"` respectively.
