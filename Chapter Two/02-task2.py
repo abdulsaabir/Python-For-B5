@@ -26,11 +26,3 @@
 
 # Ask the user to input three words
 # Print the words separated by a '-' separator using the sep argument of print
-
-word1 = input('Enter the first word: ')
-word2 = input('Enter the second word: ')
-word3 = input('Enter the third word: ')
-
-# Printing the words separated by a hyphen '-'
-print(word1, word2, word3, sep='-')
-
