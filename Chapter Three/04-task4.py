@@ -11,6 +11,5 @@
 
 
 # -------------------------------------  EXAMPLE THREE -------------------------------------------------
-
 # Ask the user to enter the day of the week
 # Check if the input matches 'wed' (for example, assuming today is Wednesday)
