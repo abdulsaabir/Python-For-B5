@@ -30,6 +30,7 @@
 # - Create a loop that prints numbers from the starting number up to the specified number of iterations.  
 
 
+
 # -------------------------------------  EXAMPLE SIX -------------------------------------------------  
 # - Ask the user to input the starting number for the loop.  
 # - Ask the user to input the ending number for the loop.  

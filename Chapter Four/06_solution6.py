@@ -24,6 +24,7 @@ while count < 3:
     count += 1
 
 
+
 # -------------------------------------  EXAMPLE THREE -------------------------------------------------
 
 # - Ask the user to answer with 'y' or 'n'.  
