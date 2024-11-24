@@ -54,13 +54,13 @@ def calculate_sum_upto(n):
     return total
 
 # Test the function
-print(calculate_sum_upto(4))  # Output: 10 (1 + 2 + 3 + 4)
+print(calculate_sum_upto(4))  
 
 x = calculate_sum_upto(4)
-print(x)                      # Output: 10
+print(x)                      
 
 x = calculate_sum_upto(x)
-print(x)                      # Output: 55 (sum of numbers from 1 to 10)
+print(x)                     
 
 x = calculate_sum_upto(x)
-print(x)                      # Output: 1540 (sum of numbers from 1 to 55)
+print(x)                      
