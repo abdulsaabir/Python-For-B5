@@ -52,7 +52,6 @@ print(list3)
 
 
 # -------------------------------------  EXAMPLE FIVE -------------------------------------------------
-
 # - Create a list of letters.  
 # - Perform slicing to print specific ranges of letters.  
 

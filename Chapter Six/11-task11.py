@@ -40,7 +40,6 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
 # Print from d to f
 # Print from f to h
 
-
 # -------------------------------------  EXAMPLE SIX -------------------------------------------------
 
 # - Check if an item exists in a list.  
